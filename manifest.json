@@ -1,0 +1,40 @@
+{
+	"jpsType": "update",
+	"jpsVersion": "0.3",
+	"application": {
+		"name": "jplock/zookeeper",
+		"version": "",
+		"type": "",
+		"homepage": "https://registry.hub.docker.com/u/jplock/zookeeper/",
+		"logo": "",
+		"description": {
+			"text": ""
+		},
+		"categories": ["dockers/stacks"],
+		"env": {
+			"topology": {
+				"engine": "",
+				"nodes": [],
+				"ssl": false,
+				"ha": false
+			}
+		},
+		"dockerImage": {
+			"name": "jplock/zookeeper",
+			"registry": "",
+			"username": "",
+			"password": ""
+		},
+		"settings": {
+			"fields": [{
+					"type": "dockertags",
+					"name": "tag",
+					"values": [{
+							"name": "latest"
+						}
+					]
+				}
+			]
+		}
+	}
+}
