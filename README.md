@@ -3,7 +3,8 @@
 
 This repository provides [jplock-zookeeper](https://hub.docker.com/r/jplock/zookeeper/) add-on for Jelastic Platform.
 
-**jplock-zookeeper** is a base docker image for [Zookeeper](http://zookeeper.apache.org/), version 3.4.8. Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+**jplock-zookeeper** is a base docker image for [Zookeeper](http://zookeeper.apache.org/), version 3.4.8.<br/>
+Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
 
 **Type of nodes this add-on can be applied to**: all nodes.
 
